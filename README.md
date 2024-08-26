@@ -1,4 +1,3 @@
-Here’s a `README.md` file tailored for a GitHub repository, incorporating all the necessary steps to set up the Netflix clone application using Kubernetes and Docker on AWS EC2 instances. This guide assumes that users will follow the instructions to deploy both Kubernetes and Docker setups, including obtaining an API key and running the application.
 
 ```markdown
 # Netflix Clone Deployment Guide
@@ -173,5 +172,3 @@ sudo systemctl enable docker
 - For further assistance, refer to the [Kubernetes Documentation](https://kubernetes.io/docs/) and the [Docker Documentation](https://docs.docker.com/).
 
 ```
-
-This `README.md` is structured to guide users through the process of deploying the application using both Kubernetes and Docker, and it includes essential details and troubleshooting tips. Adjust the placeholders (like `your-key.pem`, `your_instance_ip`, and `your_api_key_here`) with the appropriate values for your environment.
